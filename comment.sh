@@ -11,4 +11,13 @@ l3
 l4
 l5'
 
-echo "---End of file---"
+# HereDocDelimeter
+
+cat << creative
+This is heredocdelimeter
+This is another
+One more!
+last, i swear.
+creative
+
+echo "---THE END---"
