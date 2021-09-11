@@ -1,0 +1,11 @@
+total 64
+-rw-r--r--  1 abhishekagrawal  staff   382B 11 Sep 11:56 README.md
+-rwxr-xr-x  1 abhishekagrawal  staff   257B 11 Sep 09:43 comment.sh
+-rwxr-xr-x  1 abhishekagrawal  staff   474B 11 Sep 12:20 conditional.sh
+-rw-r--r--  1 abhishekagrawal  staff     0B 11 Sep 13:23 error.txt
+-rwxr-xr-x  1 abhishekagrawal  staff    86B 11 Sep 09:25 helloScript.sh
+-rwxr-xr-x  1 abhishekagrawal  staff   288B 11 Sep 13:24 input.sh
+-rwxr-xr-x  1 abhishekagrawal  staff   581B 11 Sep 13:06 loops.sh
+-rwxr-xr-x  1 abhishekagrawal  staff   474B 11 Sep 11:51 operators.sh
+-rw-r--r--  1 abhishekagrawal  staff    82B 11 Sep 09:24 redirect.txt
+-rw-r--r--  1 abhishekagrawal  staff     0B 11 Sep 13:24 stdout.txt
