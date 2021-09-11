@@ -1,0 +1,2 @@
+Redirecting text from console to a file
+This is a text which coming from console.
