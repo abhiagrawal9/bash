@@ -4,6 +4,7 @@
 # -ne means not equals to
 # -gt means greater then 
 # -lt means less then
+# -ge and -le means "greathen then and equals" and same for -le
 
 count=10
 if [ $count -lt 9 ]
