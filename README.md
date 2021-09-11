@@ -8,5 +8,10 @@ Printing a simple “Hello World” to using conditional statements such as if s
 chmod +x filename.sh
 ```
 
+### To execute a file
+```sh
+./filename.sh
+
+```
 ### Credits
 https://missing.csail.mit.edu/2020/
